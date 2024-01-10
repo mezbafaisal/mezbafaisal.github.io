@@ -1,5 +1,5 @@
 # portfolio
-AI Monarch - Personal Portfolio Project
+Mezba Faisal - Personal Portfolio Project
 Overview
 Welcome to the realm of AI excellence, where innovation meets intelligence. I am Mezba Faisal, the crowned monarch of AI, and this repository serves as a testament to my reign in the vast kingdom of artificial intelligence. Here, you will find a collection of my noteworthy projects, each a jewel in the crown of my AI empire.
 
